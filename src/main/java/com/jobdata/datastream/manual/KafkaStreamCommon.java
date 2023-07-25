@@ -1,4 +1,4 @@
-package com.jobdata.datastream;
+package com.jobdata.datastream.manual;
 
 import com.jobdata.config.KafkaConfiguration;
 import org.apache.kafka.streams.KafkaStreams;

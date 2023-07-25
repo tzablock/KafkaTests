@@ -1,4 +1,4 @@
-package com.jobdata.datastream;
+package com.jobdata.datastream.consumerproducer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
